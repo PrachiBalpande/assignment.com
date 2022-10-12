@@ -55,7 +55,7 @@ article{
     height: 500px;
     flex-grow: 1;
     background-color: green;
-    margin: 30px;
+    margin: 40px;
 }
 
 
@@ -63,14 +63,14 @@ article{
     height: 500px;
     flex-grow: 1;
     background-color:mediumvioletred;
-    margin: 30px;
+    margin: 40px;
 }
 
 .left{
     height: 500px;
     flex-grow: 1;
     background-color:lime;
-    margin: 30px;
+    margin: 40px;
 
 }
 fieldset{
@@ -103,47 +103,47 @@ aside{
 .pra{
   height: 500px;
 flex-grow: 1;
-background-color:lime;
-margin: 20px;}
+background-color:burlywood;
+margin: 40px;}
 
 .sne{
     height: 500px;
 flex-grow: 1;
 background-color:lime;
-margin: 20px;}
+margin: 40px;}
 
 .ram{
     height: 500px;
 flex-grow: 1;
-background-color:lime;
-margin: 20px;}
+background-color:seagreen;
+margin: 50px;}
 
 .price{
     display: flex;
     flex-basis: 100%;
     height: 600px;
     
-    background-color:pink;
+    background-color:orange;
     justify-content: space-evenly;
     
 }
 .a{
     height: 500px;
 flex-grow: 1;
-background-color:lime;
-margin: 20px;
+background-color:navy;
+margin: 50px;
 }
 .b{
     height: 500px;
 flex-grow: 1;
 background-color:skyblue;
-margin: 20px;
+margin: 50px;
 }
 .c{
     height: 500px;
 flex-grow: 1;
-background-color:lime;
-margin: 20px;
+background-color:peru;
+margin: 40px;
 }
 footer{
     display: flex;
